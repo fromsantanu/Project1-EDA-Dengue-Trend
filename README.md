@@ -13,7 +13,7 @@
 - [Program Codes ](#program-codes)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [Contact Information](#contact-information)
+- [Contact Details](#contact-details)
 
 ---
 
@@ -36,3 +36,13 @@ about data file
 about program code
 
 ## Screenshots
+
+Screen shots
+
+## contributing
+
+contributing
+
+## Contact-details
+
+contact details
