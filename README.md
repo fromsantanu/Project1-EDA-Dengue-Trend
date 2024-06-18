@@ -1,7 +1,7 @@
 # Project1-EDA
 > **Brief Description:** A concise introduction to what your project is about and its main purpose.
 
-![Project Logo](link-to-your-logo-image)
+![Project Logo](EDADengue.jpg)
 
 ---
 
