@@ -10,8 +10,8 @@
 - [Description](#description)
 - [Technologies Used](#technologies-used)
 - [Data File](#data-file)
-- [Program Codes ](#Program-codes)
-- [Screenshots/Demos](#screenshotsdemos)
+- [Program Codes ](#program-codes)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Contact Information](#contact-information)
 
@@ -27,4 +27,12 @@ Example:
 
 Python programming language
 
-## data-file
+## Data-file
+
+about data file
+
+## Program-codes
+
+about program code
+
+## Screenshots
