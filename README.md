@@ -13,7 +13,7 @@
 - [Dataset](#dataset)
 - [Program Codes ](#program-codes)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
+- [Contribution](#contributipn)
 - [Contact Details](#contact-details)
 
 ---
@@ -44,7 +44,7 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ![Program Output](output.png)
 
-## contributing
+## Contribution
 
 The programs are written by Santanu Karmakar
 
