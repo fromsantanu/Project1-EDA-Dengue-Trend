@@ -35,7 +35,7 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ## Screenshots
 
-Screen shots
+![Program Output](output.png)
 
 ## contributing
 
