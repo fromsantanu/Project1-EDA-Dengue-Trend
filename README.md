@@ -50,6 +50,6 @@ The programs are written by Santanu Karmakar
 
 ## Contact-details
 
-If you wish to contact me, please leave a message (Preferably WhatsApp) on this number: 6291 894 897 
+If you wish to contact me, please leave a message (Preferably WhatsApp) on this number: 6291 894 897.
 Please also mention why you are contacting me. Include your name and necessary details.
 Thank you for taking an interest.
