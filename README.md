@@ -8,6 +8,7 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Video Explanation](#video)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Program Codes ](#program-codes)
@@ -20,6 +21,8 @@
 ## Description
 
 Here is a Python program using the pandas and matplotlib libraries to create a line chart showing the trend of dengue cases over time. This example assumes you have a CSV file with two columns: "Date" and "Cases," where "Date" is in a datetime format and "Cases" represents the number of dengue cases reported.
+
+## Video
 
 [![Watch the video](https://img.youtube.com/vi/sEScfOFJsDU/hqdefault.jpg)](https://www.youtube.com/watch?v=sEScfOFJsDU)
 
