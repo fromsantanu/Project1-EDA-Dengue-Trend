@@ -1,4 +1,4 @@
-# Project1-EDA
+# Project1-EDA-Dengue-Trend
 > **Brief Description:** Python program using the pandas and matplotlib libraries to create a line chart showing the trend of dengue cases over time.
 
 ![Project Logo](EDADengue.jpg)
